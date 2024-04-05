@@ -1,0 +1,50 @@
+.header{
+    padding:20px;
+    background-color: green;
+    color:white;
+    display:flex;
+    gap:10%;
+}.vallona{
+    display:flex;
+    gap:5%;
+}
+ .summer{
+        position: relative;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: medium;
+        padding-top: 1px;
+ }
+#words{
+  position: absolute;
+   top: 60%;
+   font-size: large;
+   margin-top: 40px;
+}.plants{
+
+}
+#container{
+    display: flex;
+    gap: 40px;
+    padding: 5px;
+    
+}.coiner2{
+    display: flex;
+}
+.topsale{
+    display:flex;
+    gap:20px;
+    border-radius: 10px;
+    justify-content: center;
+    
+    padding:2px;
+}
+.allsaleplant{
+    text-align: center;
+    
+}
+.collectionimage{
+    display: flex;
+    gap:5%;
+    justify-content: center;
+    text-align: center;
+}
